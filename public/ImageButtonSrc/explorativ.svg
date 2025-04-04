@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 512 512" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g transform="matrix(1,0,0,1,-1605.08,-1206.39)">
+        <g transform="matrix(1,0,0,1,1605.08,1206.39)">
+            <rect id="explorativ-icon" x="0" y="0" width="512" height="512" style="fill:none;"/>
+            <g id="explorativ-icon1" serif:id="explorativ-icon">
+                <g transform="matrix(0.858417,0,0,0.858417,26.6948,53.9268)">
+                    <g transform="matrix(1.07171,0,0,1.07171,-1763.38,-1323.26)">
+                        <path d="M1942.5,1281C2011.77,1281 2068,1337.24 2068,1406.5C2068,1475.77 2011.77,1532 1942.5,1532C1873.24,1532 1817,1475.77 1817,1406.5C1817,1337.24 1873.24,1281 1942.5,1281ZM1942.5,1315.99C1992.45,1315.99 2033.01,1356.55 2033.01,1406.5C2033.01,1456.45 1992.45,1497.01 1942.5,1497.01C1892.55,1497.01 1851.99,1456.45 1851.99,1406.5C1851.99,1356.55 1892.55,1315.99 1942.5,1315.99Z" style="fill:rgb(90,90,90);"/>
+                    </g>
+                    <g transform="matrix(1,0,0,1,-1605.08,-1206.39)">
+                        <path d="M1796.82,1470.59C1808.71,1489.35 1824.65,1505.29 1843.41,1517.18L1741.27,1619.32C1728.41,1632.17 1710.54,1629.17 1697.68,1616.32C1684.83,1603.46 1681.83,1585.59 1694.68,1572.73L1796.82,1470.59Z" style="fill:rgb(90,90,90);"/>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
